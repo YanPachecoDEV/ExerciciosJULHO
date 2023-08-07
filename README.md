@@ -1,2 +1,2 @@
-# ExerciciosJULHO
+# ExercíciosJULHO
 Exercícios PHP
